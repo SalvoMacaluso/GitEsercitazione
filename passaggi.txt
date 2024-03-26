@@ -1,0 +1,15 @@
+CREAZIONE REPOSITORY, MODIFICA FILE E PUSH DEL FILE MODIFICATO
+1)assicurarsi che le estensioni git sono state installate;
+2)caricamento di una cartella su vscode;
+3)creazione di un repository con la cartella caricata con 
+   "publish to GitHub" creando un repository public;
+4)Dopo aver creato il repository potremo creare/modificare 
+    qualsiasi file per poi pubblicare tutto nel repository;
+5)Modifico il file;
+6)git add
+7)git commit -m "modica file"
+8)git push 
+
+
+
+
