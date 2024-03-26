@@ -10,6 +10,6 @@ CREAZIONE REPOSITORY, MODIFICA FILE E PUSH DEL FILE MODIFICATO
 7)git commit -m "modica file"
 8)git push 
 
-
-
+PULL DI UN PROGETTO/FILE
+1) git pull 
 
